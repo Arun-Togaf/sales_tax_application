@@ -5,6 +5,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sales_tax_application</name>
 	<description>Application for computing Sales Tax</description>
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>log4j</groupId>
